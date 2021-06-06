@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvradip</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStuck developer from India</h3>
 
 - 🔭 I’m currently working on **Yelp Camp**
 
