@@ -28,23 +28,20 @@
     ![Linkedin: Shuvradip](https://img.shields.io/badge/-Shuvradip-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/mindsparkist">
-    ![Twitter: Shuvradip](https://img.shields.io/twitter/follow/halmyradov?style=social)
+    ![Twitter: Shuvradip](https://img.shields.io/twitter/follow/mindsparkist?style=social)
 </a>
 </a>
 <a href="https://github.com/mindsparkist">
     ![GitHub: Shuvradip](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
+<a href="https://stackoverflow.com/users/12036844/shuvradip-chakraborty">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
 </a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+<a href="https://leetcode.com/Shuvup/">
+    ![LeetCode: berkeli](https://img.shields.io/badge/-Shuvradip-000?&logo=LeetCode)
 </a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+<a href="https://codepen.io/shuvradip">
+    ![CodePen: berkeli](https://img.shields.io/badge/-Shuv-000?&logo=CodePen)
 </a>
 
 &emsp;
