@@ -25,7 +25,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/shuvradip-chakraborty/">
-    ![Linkedin: Shuvradip](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Shuvradip](https://img.shields.io/badge/-Shuvradip-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/mindsparkist">
     ![Twitter: Shuvradip](https://img.shields.io/twitter/follow/halmyradov?style=social)
