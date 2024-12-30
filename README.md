@@ -113,3 +113,41 @@
 
 
 &emsp;
+
+# Open Source Contributions & Technical Documentation
+
+### Technical Knowledge Base Development
+- Authored comprehensive documentation for Technical Support troubleshooting, creating 50+ detailed articles covering common enterprise IT issues
+- [Tech Support Knowledge Base](https://github.com/mindsparkist/Tech-Support-issues)
+  - Created step-by-step guides for resolving complex system issues
+  - Documented best practices for incident management and problem resolution
+  - Developed troubleshooting decision trees for common support scenarios
+
+### Infrastructure Documentation
+- **Windows Server Documentation**
+  - Maintained detailed documentation covering Windows Server 2008 administration
+  - Topics include Active Directory management, Group Policy, and server maintenance
+  - [Windows Concepts Repository](https://github.com/mindsparkist/Windows-Concepts)
+
+- **Linux Administration Guide**
+  - Developed RHCSA study materials and practical guides
+  - Created hands-on labs and exercises for Linux system administration
+  - [Linux Concepts Repository](https://github.com/mindsparkist/Linux-Typical-concepts)
+
+### Project Management & Framework Documentation
+- **Jira Administration Guide**
+  - Created comprehensive documentation for Jira workflow management
+  - Developed best practices for ticket management and project tracking
+  - [Jira Fundamentals Repository](https://github.com/mindsparkist/Jira-Fundamentals)
+
+- **ITIL Framework Documentation**
+  - Documented ITIL processes and implementation guidelines
+  - Created reference materials for service management practices
+  - [ITIL Notes Repository](https://github.com/mindsparkist/ITIL-Notes)
+
+### Technical Writing & Blogging
+- Regular contributor to Medium (@mindsparkist), focusing on:
+  - Cloud computing best practices
+  - DevOps methodologies
+  - System administration tips
+  - Infrastructure automation
