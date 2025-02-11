@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvradip</h1>
 
-<img src="https://raw.githubusercontent.com/mindsparkist/Blockchain-and-a-cryptocurrency-based-on-it/main/Shuvradip%20Chakraborty.png" align="center" alt="Shuvradip header image">
+<img src="https://raw.githubusercontent.com/mindsparkist/Blockchain-and-a-cryptocurrency-based-on-it/refs/heads/main/Shuvradip%20Chakraborty1.png" align="center" alt="Shuvradip header image">
 
 -------------------
 &emsp;
